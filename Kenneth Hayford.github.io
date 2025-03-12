@@ -27,7 +27,7 @@
 </head>
 <body>
     <div class="container">
-        <img src=Kenneth Profile.png alt="Profile Picture">
+        <img src=https://github.com/kenhayford350/Kenneth-Hayford.github.io/blob/main/Kenneth%20profile.jpg alt="Profile Picture">
         <h1>Hello, I'm Kenneth Akonnor Hayford!</h1>
         <p>I am a Data Analyst/Flutter/Web Developer. Welcome to my portfolio!</p>
         <h3>Projects</h3>
