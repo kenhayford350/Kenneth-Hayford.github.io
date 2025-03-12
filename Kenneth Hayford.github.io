@@ -17,16 +17,17 @@
             background: white;
             box-shadow: 2px 2px 10px gray;
             border-radius: 10px;
-        }
-        img {
-            width: 150px;
-            border-radius: 50%;
+        }}
+         img {
+            width: 150px; /* Adjust the size as needed */
+            border-radius: 50%; /* Makes it circular */
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <img src="https://via.placeholder.com/150" alt="Your Photo">
+        <img src=Kenneth Profile.png alt="Profile Picture">
         <h1>Hello, I'm Kenneth Akonnor Hayford!</h1>
         <p>I am a Data Analyst/Flutter/Web Developer. Welcome to my portfolio!</p>
         <h3>Projects</h3>
