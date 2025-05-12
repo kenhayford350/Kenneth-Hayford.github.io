@@ -67,7 +67,7 @@ Full-stack application where users can sign up, log in, and request deliveries w
 - 🌐 [Portfolio Website](https://kenneth-hayford.zarlasites.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kenneth-hayford)  
 - 🐦 [Twitter](https://x.com/Mr_hayf0rd)   
-- 📧 Email: hayfordkenneth92@gmail.com  
+- 📧 Email: hkenneth350@gmail.com
 
 ---
 
