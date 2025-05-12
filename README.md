@@ -40,25 +40,23 @@ Currently pursuing CA in the **Chartered Accountancy program (ICAG)**, I’m als
 ### 📊 **Movie Data Analytics Dashboard**  
 Visual analytics project that integrates SQL querying, Python visualization (Seaborn/Matplotlib), and Power BI dashboards.  
 🔍 Key insights: Genre popularity, director performance, box office trends.  
-📁 [View Project Repository](#)
+📁 (https://github.com/kenhayford350/Streamflix.git)
 
 ---
 
-### 🍔 **Food Delivery Web App**  
+### 🍔 **Food Delivery Website**  
 Full-stack application where users can sign up, log in, and request deliveries with a user-friendly interface.  
 💻 Built with: HTML/CSS, JavaScript, Flutter (mobile), Firebase.  
-📁 [View Project Repository](#)
+📁 https://github.com/kenhayford350/landing_page.git
+
 
 ---
 
-### 🏦 **Financial Reporting System – Leeford Enterprise**  
-Tracked inventory and sales performance using Excel dashboards and QuickBooks to monitor cash flows and plan purchases.  
-📁 [View Project Repository](#)
 
 ---
 
 ## 🌱 Learning Goals  
-- Master advanced backend skills with Node.js and PostgreSQL  
+- Master advanced backend skills with Node.js and PostgreSQL
 - Explore financial modeling and data automation using Python  
 - Contribute to open-source fintech or ed-tech projects  
 
