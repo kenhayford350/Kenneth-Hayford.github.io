@@ -39,6 +39,11 @@ Currently pursuing CA in the **Chartered Accountancy program (ICAG)**, I’m als
 
 ## 💼 Featured Projects  
 
+### 💵🏧 **GhanaPay Dashbard**
+The GhanaPay Dashboard displays real-time financial data and user metrics with interactive charts, helping stakeholders track transactions and make informed decisions
+🔍 Key insights: Total transaction volume, active user trends, and peak transaction periods for informed financial analysis.
+📁 (https://github.com/kenhayford350/GhanaPay.git)
+
 ### 📊 **Movie Data Analytics Dashboard**  
 Visual analytics project that integrates SQL querying, Python visualization (Seaborn/Matplotlib), and Power BI dashboards.  
 🔍 Key insights: Genre popularity, director performance, box office trends.  
