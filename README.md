@@ -81,6 +81,6 @@ Full-stack application where users can sign up, log in, and request deliveries w
 ### 💬 Fun Fact  
 I’m a huge Liverpool FC fan ⚽, I enjoy analyzing matches almost like financial data – stats, trends, performance metrics... and yes, I love good food and great code.
 
-> _“Build with purpose. Analyze with clarity. Impact with code.”_
+### > _“Build with purpose. Analyze with clarity. Impact with code.”_
 
 ---
