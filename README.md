@@ -49,7 +49,9 @@ Visual analytics project that integrates SQL querying, Python visualization (Sea
 🔍 Key insights: Genre popularity, director performance, box office trends.  
 📁 (https://github.com/kenhayford350/Streamflix.git)
 
----
+### ***Streamfix 🎥*** 
+A sleek and lightning-fast React app for browsing and discovering movies. Built with Vite, React Router, and modular components for a smooth user experience.
+📁(https://github.com/kenhayford350/Streamfix-Movies)
 
 ### 🍔 **Food Delivery Website**  
 Full-stack application where users can sign up, log in, and request deliveries with a user-friendly interface.  
