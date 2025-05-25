@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-upload-path/1742146128685.jpeg" alt="Kenneth Hayford banner" />
+  <img src="https://raw.githubusercontent.com/kenhayford350/kenhayford350/main/profilepic.jpeg" alt="Kenneth Hayford banner" />
 </p>
 
 # Hi there, I'm Kenneth Hayford! 👋  
